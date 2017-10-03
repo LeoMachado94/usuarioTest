@@ -1,10 +1,10 @@
 {
-    "name": "nwidart/usuario",
+    "name": "LeoMachado94/usuarioModule",
     "description": "",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Leonardo Machado",
+            "email": "leo94.machado@gmail.com"
         }
     ],
     "autoload": {
